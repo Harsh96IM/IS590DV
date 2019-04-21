@@ -1,3 +1,5 @@
+plt
+bqplot
 numpy
 pandas
 matplotlib
