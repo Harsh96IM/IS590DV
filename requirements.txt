@@ -1,4 +1,3 @@
-plt
 bqplot
 numpy
 pandas
